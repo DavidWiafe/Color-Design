@@ -1,0 +1,51 @@
+﻿body {
+  /* Uncomment this to enable scrolling and zooming
+  touch-action: manipulation;
+  */
+}
+
+/* Put all the flare types in line */
+.flaretypes li {
+   
+    display: inline-block;
+}
+
+.greenProgress {
+    width: 100%;
+    background-color: #ddd;
+}
+
+#greenBar {
+    width: 1%;
+    height: 30px;
+    background-color: #4CAF50;
+}
+
+
+#myProgress {
+    height: 10px;
+    background-color: #ddd;
+}
+
+#myBar {
+    height: 1%;
+   /* height: 30px; */
+    background-color: #4CAF50;
+}
+/*
+#myProgress {
+  width: 10%;
+  background-color: #ddd;
+}
+
+#myBar {
+  width: 1%;
+  height: 30px;
+  background-color: #4CAF50;
+}
+
+*/
+
+
+
+
